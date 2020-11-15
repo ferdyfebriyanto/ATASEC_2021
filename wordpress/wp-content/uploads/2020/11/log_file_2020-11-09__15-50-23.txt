@@ -1,0 +1,54 @@
+
+---Downloaded files---
+The import files for: Main Home were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/wordpress
+Data file = C:\xampp\htdocs\wordpress/wp-content/uploads/2020/11/demo-content-import-file_2020-11-09__15-50-23.xml
+Widget file = C:\xampp\htdocs\wordpress/wp-content/uploads/2020/11/demo-widgets-import-file_2020-11-09__15-50-23.json
+Customizer file = C:\xampp\htdocs\wordpress/wp-content/uploads/2020/11/demo-customizer-import-file_2020-11-09__15-50-23.dat
+Redux files:
+canteen_theme_setting -> C:\xampp\htdocs\wordpress/wp-content/uploads/2020/11/demo-redux-import-file_0-2020-11-09__15-50-23.json 
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Default Sidebar : 
+
+Search - No Title - Imported
+About Us (CANTEEN) - World&#039;s Best Restaurant - Imported
+CANTEEN: Blog Featured Posts - Recent Posts - Imported
+Gallery - Gallery - Imported
+Tag Cloud - Tags Cloud - Imported
+Archives - Archives List - Imported
+Image - Current offer - Imported
+
+
+
+---Importing Redux settings---
+Redux settings import for: canteen_theme_setting finished successfully!
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+
